@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fatemeh-aboulhassani
+- Hi, I’m @Fatemeh-aboulhassani
 - 👀 I’m interested in learning new skills 
 - 🌱 I’m currently learning arduino and python 
 <!---
