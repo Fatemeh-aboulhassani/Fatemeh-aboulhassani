@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # Hi, I'm Fatemeh 👋
 
-### M.Sc. Medical Engineering · TU Darmstadt
+### M.Sc. Student in Medical Engineering · TU Darmstadt
 
 *Bridging human movement and computational intelligence*
 
@@ -85,18 +84,6 @@ I'm a Medical Engineering graduate student at **TU Darmstadt**, passionate about
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatemeh-aboulhassani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatemeh-aboulhassani&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-
-
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fatemeh-aboulhassani&theme=tokyonight&hide_border=true)
 
 
@@ -124,6 +111,5 @@ I'm always open to collaborations in **biomedical engineering**, **movement scie
 <div align="center">
 <sub>⚡ Turning movement data into meaningful insights</sub>
 </div>
----
 
 ![snake gif](https://github.com/Fatemeh-aboulhassani/Fatemeh-aboulhassani/blob/output/github-contribution-grid-snake.svg)
