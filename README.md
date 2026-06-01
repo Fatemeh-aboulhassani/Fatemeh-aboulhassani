@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Fatemeh 👋
@@ -84,13 +85,13 @@ I'm a Medical Engineering graduate student at **TU Darmstadt**, passionate about
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatemeh-aboulhassani&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatemeh-aboulhassani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatemeh-aboulhassani&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatemeh-aboulhassani&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 
 
@@ -123,7 +124,6 @@ I'm always open to collaborations in **biomedical engineering**, **movement scie
 <div align="center">
 <sub>⚡ Turning movement data into meaningful insights</sub>
 </div>
-
 ---
 
 ![snake gif](https://github.com/Fatemeh-aboulhassani/Fatemeh-aboulhassani/blob/output/github-contribution-grid-snake.svg)
