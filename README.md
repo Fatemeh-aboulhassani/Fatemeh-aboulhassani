@@ -18,8 +18,8 @@
 
 ## Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/fatemeh-aboulhassani
-- 💻 GitHub: https://github.com/Fatemeh-aboulhassani
+[![GitHub](https://img.shields.io/badge/GitHub-Fatemeh--aboulhassani-black)](https://github.com/Fatemeh-aboulhassani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/fatemeh-aboulhassani)
 
 ---
 
