@@ -1,4 +1,4 @@
-# Hi, I'm Fatemeh 👋
+# Hi, I'm Fatemeh 
 
 **M.Sc. Medical Engineering Student | TU Darmstadt**  
 *Biomechanics · Motion Analysis · Biomedical Data Processing*
@@ -8,20 +8,20 @@
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 I am a Master's student in **Medical Engineering at TU Darmstadt**, with a strong interest in **biomechanics, human movement analysis, and biomedical data processing**.
 
 My current focus is on working with movement data from **IMU sensors** and motion capture systems, using computational tools to analyze and better understand human motion.
 
-- 🦴 Interested in **biomechanics and motion analysis**
-- 📡 Working with **Xsens IMU sensors** and motion capture data
-- 🧠 Using **Python** for biomedical signal and movement data analysis
-- 🔬 Exploring **OpenSim** for musculoskeletal modeling and simulation
+-  Interested in **biomechanics and motion analysis**
+-  Working with **Xsens IMU sensors** and motion capture data
+-  Using **Python** for biomedical signal and movement data analysis
+-  Exploring **OpenSim** for musculoskeletal modeling and simulation
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -32,14 +32,14 @@ My current focus is on working with movement data from **IMU sensors** and motio
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 | Area | Tools & Methods |
 |------|----------------|
-| 🏃 Human Motion Analysis | Xsens IMU, Motion Capture |
-| 🦾 Musculoskeletal Modeling | OpenSim |
-| 📊 Signal Processing | Python, MATLAB |
-| 🧪 Biomechanics | Kinematic and Movement Analysis |
+|  Human Motion Analysis | Xsens IMU, Motion Capture |
+|  Musculoskeletal Modeling | OpenSim |
+|  Signal Processing | Python, MATLAB |
+|  Biomechanics | Kinematic and Movement Analysis |
 
 ---
 
